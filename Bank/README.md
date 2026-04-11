@@ -67,7 +67,7 @@ Model performance evaluated using:
 | 0 (No) | 0.97 | 0.84 | 0.90 |
 | 1 (Yes) | 0.42 | 0.83 | 0.56 |
 
-## Observations
+## Findings
 - The model performs well overall with **high accuracy (84%)**
 - It predicts **"No" class very accurately**
 - It has **high recall (83%) for "Yes" class**, meaning:
