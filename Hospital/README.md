@@ -60,7 +60,7 @@ The model is built using multiple layers:
 | Validation Accuracy | ~85–87%  |
 | Test Accuracy       | ~89–90%  |
 
-## Observations
+## Findings
 * Validation accuracy shows slight fluctuations during training
 * This is due to the **small size of the validation dataset**
 * Despite this, the model performs well on unseen test data
