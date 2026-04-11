@@ -85,17 +85,16 @@ Model performance evaluated using:
 - Scikit-learn
 - Google Colab
 
-## Future Improvements
-- Try advanced models like:
-  - Random Forest
-  - XGBoost
-- Tune hyperparameters
-- Use ROC-AUC score for better evaluation
-- Perform feature selection for better accuracy
-
 ## Conclusion
 This project demonstrates a complete beginner-friendly machine learning pipeline:
 - Data preprocessing
 - Model training
 - Evaluation
 The model is effective for predicting customer responses, especially identifying potential customers, but still has room for improvement.
+
+## Future Improvements
+- Try advanced models like:
+  - Random Forest
+  - XGBoost
+- Tune hyperparameters
+- Perform feature selection for better accuracy
